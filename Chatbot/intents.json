@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "label": "Gruss",
+    "patterns": ["Hi.", "Wie geht's?", "Ist jemand da?", "Hallo", "Guten Tag"],
+    "responses": [
+      "Hallo, herzlich Willkommen",
+      "Schön Sie zu sehen",
+      "Hallo, wie kann ich weiterhelfen?"
+    ]
+  },
+  {
+    "id": 2,
+    "label": "Wiedersehen",
+    "patterns": ["Tschüss", "Bis später", "Wiedersehen"],
+    "responses": [
+      "Auf Wiedersehen, danke für den Besuch.",
+      "Einen schönen Tag.",
+      "Tschüss! Kommen Sie bald zurück."
+    ]
+  },
+  {
+    "id": 3,
+    "label": "Dank",
+    "patterns": ["Danke", "Dank dir!", "Das war hilfreich"],
+    "responses": ["Ich helfe gerne!", "Jeder Zeit!", "Es war mir ein vergnügen"]
+  }
+]
